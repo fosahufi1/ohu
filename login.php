@@ -3,7 +3,7 @@ session_start();
 
 // 🔹 Lista użytkowników w formacie "login" => "hasło"
 $users = array(
-    "admin" => "mojehaslo123",   // ← zmień tutaj na swój login i hasło
+    "admin" => "mojehaslo123","1234"   // ← zmień tutaj na swój login i hasło
     "test"  => "1234",           // ← dodatkowy użytkownik testowy
     // Możesz dodawać kolejne: "nowylogin" => "nowehaslo",
 );
